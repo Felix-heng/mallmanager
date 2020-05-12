@@ -1,6 +1,6 @@
 # mallmanager
 
-> A Vue.js project
+> A Vue电商后台管理系统
 
 ## Build Setup
 
